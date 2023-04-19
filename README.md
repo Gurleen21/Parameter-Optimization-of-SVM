@@ -21,14 +21,14 @@ Number of Attributes: 17
 
 ### Final Result Table
 #### Comparative Performance of optimized SVM with different samples:
-<img width="454" alt="image" src="https://user-images.githubusercontent.com/79686365/233190919-8e9bca62-d202-4026-b609-c0acb8017c6d.png">
+<img width="446" alt="image" src="https://user-images.githubusercontent.com/79686365/233195428-d5bb3f25-38ba-4fcb-9e21-9d4cc0e06328.png">
 
 
 ### Convergence Graph
-![image](https://user-images.githubusercontent.com/79686365/233190991-492f3e59-4138-472c-b8fa-b1850ad400ca.png)
+![image](https://user-images.githubusercontent.com/79686365/233195502-1f202b7b-8d52-43fa-8246-3a25d7329d77.png)
 
 ### Conclusion
-The above graph is made for the sample which has best accuracy. Sample with id 2 has the best accuracy of 0.93 having kernel = Linear, Nu = 0.88 and Epsilon = 3.81.
+The above graph is made for the sample which has best accuracy. Sample with id 5 has the best accuracy of 0.93 having kernel = Linear, Nu =0.05 and Epsilon = 2.19.
 From the above graph, we can conclude that the SVM model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
 
 ### License
